@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "今天天气不错",
+      "author": "Marvin",
+      "content": "挺风和日丽的"
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "1楼说得对", "postId": 1 },
+    { "id": 2, "body": "2楼说的对", "postId": 1 }
+  ]
+}

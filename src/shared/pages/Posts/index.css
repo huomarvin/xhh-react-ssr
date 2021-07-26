@@ -1,0 +1,15 @@
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+.posts {
+  width: 400px;
+  background-color: skyblue;
+}
+.posts li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}

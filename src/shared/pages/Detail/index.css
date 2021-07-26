@@ -1,0 +1,30 @@
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.detail {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.detail a {
+  display: block;
+}
+
+.container {
+  background-color: bisque;
+  width: 1200px;
+  padding: 24px;
+}
+
+.comments header {
+  padding-top: 32px;
+}
+.comments p {
+  border-top: 1px solid skyblue;
+  height: 48px;
+  line-height: 48px;
+}
